@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**karinaangr/karinaangr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karina Dwi Anggraini.
 
-Here are some ideas to get you started:
+🎓 Mathematics Graduate
+📊 Interested in Operations Research, Queueing Theory, and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Queueing Theory
+- Markov Chains
+- Mathematical Modeling
+- Healthcare Systems
+- Machine Learning
+
+## Current Projects
+- Patient Queueing Models
+- Optimization and Simulation
+- Machine Learning Applications
+
+## Tools
+Python | NumPy | Pandas | Scikit-Learn | LaTeX
+
+Thanks for visiting my profile!
